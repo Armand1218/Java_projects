@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.container {
+	margin: 50px;
+	padding: 50px;
+	background-color: black;
+}
+
+h1 {
+	color: brown;
+	margin: 5%
+}
+
+table {
+	height: 100px;
+	background-color: red;
+}
